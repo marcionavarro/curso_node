@@ -1,0 +1,10 @@
+npm i
+npm init -y
+npm i chalk --save-dev
+npm update
+npm update chalk
+npx npm-check-updates -u
+npx cowsay "Hello World!"
+npx cowsay -d "Morri!"
+npm uninstall lodash
+npm i chalk@^4.1.2
